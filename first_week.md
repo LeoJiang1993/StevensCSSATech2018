@@ -23,7 +23,8 @@ Hopfully, the project is expected to be arranged with agile method, dividing by 
 Thank you for your cooperation. If you have any technical concerns on the following things, pls DO NOT hesitate asking me.
 
 
-Best Regards,\n
+Best Regards,
+
 Stevens CSSA Tech Department
 
 # Python Basic
