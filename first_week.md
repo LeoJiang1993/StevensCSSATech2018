@@ -28,6 +28,11 @@ Best Regards,
 Stevens CSSA Tech Department
 
 # Python Basic
+
+## Source
+I recommand you to read the runoob (runoob.com) python3 tutorial. It is in chinese and really not a long one...
+
+If you wanna read more, please refer to the Python3 documents. Actually, I haven't read through out it yet...
 ## Environment
 
 Python3 3.5.0 or up. Our Server runs on 3.5.x.
