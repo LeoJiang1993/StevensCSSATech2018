@@ -1,7 +1,7 @@
 # First Week Challenge
 Hi, all:
 
-Welcome to Stevens CSSA Tech Department. 
+On behave of Stevens CSSA Tech Department, I would like to extend a warm welcome to all of you.
 
 To Back End Developers (a.k.a Python):
 
@@ -23,8 +23,7 @@ Hopfully, the project is expected to be arranged with agile method, dividing by 
 Thank you for your cooperation. If you have any technical concerns on the following things, pls DO NOT hesitate asking me.
 
 
-Best Regards,
-
+Best Regards,\n
 Stevens CSSA Tech Department
 
 # Python Basic
@@ -34,9 +33,9 @@ Python3 3.5.0 or up. Our Server runs on 3.5.x.
 
 ## print()
 
-    Although in a real server, this make no sense, it is really useful while developing.
+Although in a real server, this make no sense, it is really useful while developing.
 
-## Data type
+## Data Type
 * Number
 * String
 * Array
@@ -46,26 +45,28 @@ Python3 3.5.0 or up. Our Server runs on 3.5.x.
 
 ## if ... (elif ...) else ...
 
-## loop
+## Loop
 * while loop
 * for loop
 * What is iterable object?
+
     You may not need to know how to define an iterate object, but you should be aware of that an object is iterable.
+
 * yield (optional)
 
-## function
+## Function
 * def
 * return
 * yield (optional)
 * decorator (optional)
 
-## package
+## Package
 * import
 * from ... import ...
 
 ## Object-Oriented Programming
-### object
+### Object
 * Variable
 * Class Method
 * Static Method (optional)
-### inheritance and multiple inheritance
+### Inheritance and Multiple Inheritance
