@@ -18,7 +18,7 @@ Guys who wants to join the front end group can contact me and we may have a disc
 Since currently the frount end and back end are running on the same server, 
 I'm considering making them seperate with Vue or AngulaJS.
 
-Hopfully, the project is expected to be arranged with agile method, dividing by scrum. Hopfully...
+Hopefully, the project is expected to be arranged with agile method, dividing by scrum. Hopefully...
 
 Thank you for your cooperation. If you have any technical concerns on the following things, pls DO NOT hesitate asking me.
 
@@ -30,7 +30,7 @@ Stevens CSSA Tech Department
 # Python Basic
 
 ## Source
-I recommand you to read the runoob (http://www.runoob.com/python3/python3-tutorial.html) python3 tutorial. It is in chinese and really not a long one...
+I recommend you to read the runoob (http://www.runoob.com/python3/python3-tutorial.html) python3 tutorial. It is in chinese and really not a long one...
 
 If you wanna read more, please refer to the Python3 documents. Actually, I haven't read through out it yet...
 ## Environment
@@ -44,7 +44,7 @@ Although in a real server, this make no sense, it is really useful while develop
 ## Data Type
 * Number
 * String
-* Array
+* List
 * Dict
 * Tuple
 * Set
