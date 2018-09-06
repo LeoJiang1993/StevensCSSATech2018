@@ -76,3 +76,36 @@ Although in a real server, this make no sense, it is really useful while develop
 * Class Method
 * Static Method (optional)
 ### Inheritance and Multiple Inheritance
+
+# Python Test
+## 1. List
+* write a list and init it with [1, 2, 3, 4, 5, ]
+* append 6 to 10 to the list
+* delete 4 from the list
+* 写一个list()   存数字1 2 3 4 5
+* 然后加6 7 8 9 10
+* 然后删数字4
+## 2. dict
+* write a list contains a key-value pair:
+    * key as your name and value as your cwid
+* 写一个dict()
+* key是你们自己的名字
+* value是你们的学号
+## 3. Create a User class
+* Member variable: username, password, and personal profile.
+* Menber Functions:
+    1. \_\_init__ method
+    2. method to change personal profile.
+* 创建一个用户的类，包含用户名、密码、个人资料，
+* 类里设计方法：构造方法和自定义方法
+* 自定义方法修改个人资料
+## 4. Create a Activity class
+* Member Variable:
+    1. title, content, date, and capability
+    2. capability should be saved as string
+* Member Functions:
+    1. \_\_init__
+    2. methods changing all of the member variable.
+* 创建一个活动的类，包含标题、内容、日期、参加人数(字符串格式)
+* 类里设计方法：构造方法和自定义方法
+* 自定义方法 增加、减少参加人数，内容修改
