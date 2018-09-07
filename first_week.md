@@ -78,6 +78,16 @@ Although in a real server, this make no sense, it is really useful while develop
 ### Inheritance and Multiple Inheritance
 
 # Python Test
+## How To Submit
+
+You have two choices:
+
+1. create a fork from this repository and submit the code via github.
+2. send me an email which contains your name.
+
+## 0. Comments
+* White a comment including necessary information which can identify you.
+
 ## 1. List
 * write a list and init it with [1, 2, 3, 4, 5, ]
 * append 6 to 10 to the list
