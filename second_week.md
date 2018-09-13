@@ -24,6 +24,9 @@ our codes and make them easier for maintenance.
         I will give you access to our website code.
     2. Make sure you are doing your coding on your own branch.
     Any unauthorized changes made on Master Branch will result in being removed from the project.
+    3. Maybe you are not that confident of your code,
+     but do not create weird named files other than a regular
+     django app file. This will make no sense and may cause difficulty on finding code.
 1. The first scrum will end a little bit longer than a regular one, 3 weeks.
 2. User Story:
     * A user wanna have several email address on file and can log in with any of them.
