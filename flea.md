@@ -2,9 +2,9 @@
 ### Scrum Groups
 * Xiaochi Ma, Yueran Liu, Xiaoning Zhou
 * Tianxin Liu, Jingxuan Liu, Yuqing Luo
-* Ziran Gong, Zidong Zhang, Bowen Li
+* Ziran Gong, Linan Dang, Bowen Li
 * Peihao Ren, Puzhuo Li, Xiaojie Gao
-* Li Jiang, Linan Dang, Tang Li
+* Li Jiang, Zidong Zhang, Tang Li
 * Xinzhe Li, Luoyuan Mao, Xiaotong Hu
 * Junzhe Wang, Yi Zong, Lijing Zhou
 ### You should create your own branch!!!
